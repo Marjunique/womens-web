@@ -1,0 +1,23 @@
+body{
+    padding: 95px;
+    background-color: #F4EAD5;
+    font-size: 15px;
+
+}
+h1{  color: #5F8D4E; font-weight: bold; font-size: large; text-align: center;
+
+  }
+  p{font-size: 12pt; line-height: 1.5;}
+
+h2{font-size: 16pt; color: #5F8D4E;
+}
+a{ color: #5F8D4E; text-decoration: underline;
+}
+    a:hover{ background-color: #285430;color: white;
+}
+img{
+
+    border: 3px solid #5F8D4E;
+
+  }
+  
