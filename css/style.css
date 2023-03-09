@@ -84,7 +84,8 @@ nav a.current{
 }
 @media screen and (min-width:650px) {
   main{
-    grid-template-columns: 45% 45%;
+    grid-template-columns: 50% 50%;
+    grid-row-gap: 30px;
   }
 
   nav ul{
@@ -92,4 +93,14 @@ nav a.current{
     justify-content: space-around;
   }
 }
+dt{
+  font-weight: bold;
+  font-size: large;
+  color: rgb(33, 63, 26);
+  
 
+}
+dd{
+  font-weight: bold;
+  
+}
